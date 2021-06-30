@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/arthur-online-resume/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/arthur-online-resume/static/js/main.dde3581f.chunk.js",
+    "main.js.map": "/arthur-online-resume/static/js/main.dde3581f.chunk.js.map",
+    "runtime-main.js": "/arthur-online-resume/static/js/runtime-main.a256873f.js",
+    "runtime-main.js.map": "/arthur-online-resume/static/js/runtime-main.a256873f.js.map",
+    "static/js/2.827f473a.chunk.js": "/arthur-online-resume/static/js/2.827f473a.chunk.js",
+    "static/js/2.827f473a.chunk.js.map": "/arthur-online-resume/static/js/2.827f473a.chunk.js.map",
+    "static/js/3.921d497b.chunk.js": "/arthur-online-resume/static/js/3.921d497b.chunk.js",
+    "static/js/3.921d497b.chunk.js.map": "/arthur-online-resume/static/js/3.921d497b.chunk.js.map",
+    "index.html": "/arthur-online-resume/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/arthur-online-resume/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.827f473a.chunk.js.LICENSE.txt": "/arthur-online-resume/static/js/2.827f473a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/arthur-online-resume/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a256873f.js",
+    "static/js/2.827f473a.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.dde3581f.chunk.js"
+  ]
+}
